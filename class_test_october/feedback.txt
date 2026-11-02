@@ -1,1 +1,11 @@
+Question 1 - You don't need to do a separate input for all the comparisons. Just one input and put it through the different if statements. 
 
+Question 2 - great
+
+Question 3 - You need to learn this off. It is in the pdf Operators in Python - Housekeeping.
+
+Question 4 - The code doesn't work because of the Order of Operations in math. Double check it and see if you can fix it.
+
+Question 5 - good code, but the formula is wrong for perimeter
+
+Question 6 and 7 - Can you do these again
